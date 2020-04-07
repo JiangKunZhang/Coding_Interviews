@@ -1,5 +1,5 @@
 # 说明 #
-- 记录LeetCode题解，日更
+- 记录CodingInterviews题解，日更
 - 题解语言为Java
 - CSDN：https://blog.csdn.net/jiangkun0331
 - 欢迎大家交流
@@ -9,5 +9,4 @@
 # 已解题目 #
 
 ## 按题号 ##
-- [1.Two Sum](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q1_TwoSum/%241_TwoSum.java)
-- [2.Add Two Numbers](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q2_AddTwoNumbers/%242_AddTwoNumbers.java)
+- [5.替换空格](https://github.com/JiangKunZhang/Coding_Interviews/blob/master/CodingInterviews/%245/%245.java)
