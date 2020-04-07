@@ -8,7 +8,7 @@ package $5;
  *
  */
 public class $5 {
-    public static String replaceSpace(StringBuffer str) {
+    public String replaceSpace(StringBuffer str) {
         //原位替换，从后往前
         //双指针法，第一个指针起点为原字符串末位，第二个指针起点为新字符串末位
 
@@ -45,11 +45,4 @@ public class $5 {
 
         return str.toString();
     }
-
-    //进行测试
-    public static void main(String[] args) {
-        StringBuffer sb = new StringBuffer("Hello Hello");
-        System.out.println(replaceSpace(sb));
-    }
-
 }
