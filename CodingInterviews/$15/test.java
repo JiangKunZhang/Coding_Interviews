@@ -1,4 +1,4 @@
-package $15;
+package $11;
 
 /**
  * @author PineappleSnow
@@ -7,7 +7,7 @@ package $15;
  */
 public class test {
     public static void main(String[] args) {
-        $15 test = new $15();
+        $15 test = new $11();
         System.out.println(test.NumberOf1(15));
     }
 }
