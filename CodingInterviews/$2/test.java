@@ -7,7 +7,7 @@ package $2;
  */
 public class test {
     public static void main(String[] args) {
-        $5 test = new $2();
+        $2 test = new $2();
         StringBuffer sb = new StringBuffer("Hello Hello");
         System.out.println(test.replaceSpace(sb));
     }
