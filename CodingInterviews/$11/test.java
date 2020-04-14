@@ -7,7 +7,7 @@ package $11;
  */
 public class test {
     public static void main(String[] args) {
-        $15 test = new $11();
+        $11 test = new $11();
         System.out.println(test.NumberOf1(15));
     }
 }
