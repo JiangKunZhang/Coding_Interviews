@@ -1,4 +1,4 @@
-package $2;
+package $5;
 
 /**
  * @author PineappleSnow
@@ -7,7 +7,7 @@ package $2;
  */
 public class test {
     public static void main(String[] args) {
-        $2 test = new $2();
+        $5 test = new $5();
         StringBuffer sb = new StringBuffer("Hello Hello");
         System.out.println(test.replaceSpace(sb));
     }

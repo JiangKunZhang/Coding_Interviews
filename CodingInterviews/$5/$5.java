@@ -1,4 +1,4 @@
-package $2;
+package $5;
 
 /**
  * @author PineappleSnow
@@ -7,7 +7,7 @@ package $2;
  *5.替换空格
  *
  */
-public class $2 {
+public class $5 {
     public String replaceSpace(StringBuffer str) {
         //原位替换，从后往前
         //双指针法，第一个指针起点为原字符串末位，第二个指针起点为新字符串末位
