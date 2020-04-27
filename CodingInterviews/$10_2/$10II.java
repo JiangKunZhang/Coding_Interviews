@@ -1,11 +1,12 @@
-package $8;
+package $10_2;
 
 /**
  * @author PineappleSnow
  * @version 1.0
  * @date 2020/4/14 22:14
+ * 青蛙跳台阶
  */
-public class $8 {
+public class $10II {
     public int JumpFloor(int target) {
         if(target == 1) {
             return 1;

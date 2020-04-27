@@ -1,4 +1,4 @@
-package $8;
+package $10_2;
 
 /**
  * @author PineappleSnow
@@ -7,7 +7,7 @@ package $8;
  */
 public class Test {
     public static void main(String[] args) {
-        $8 Frog = new $8();
+        $10II Frog = new $10II();
         System.out.println(Frog.JumpFloor(5));
     }
 
