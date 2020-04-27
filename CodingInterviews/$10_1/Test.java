@@ -1,4 +1,4 @@
-package $7;
+package $10_1;
 
 /**
  * @author PineappleSnow
@@ -7,7 +7,7 @@ package $7;
  */
 public class Test {
     public static void main(String[] args) {
-        $7 Fib = new $7();
+        $10I Fib = new $10I();
         System.out.println(Fib.Fibonacci(39));
     }
 }
